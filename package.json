@@ -1,0 +1,22 @@
+{
+  "name": "simplereact",
+  "version": "1.0.0",
+  "description": "learnign react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatsandeepsen/simpleREACT.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "RajatSandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatsandeepsen/simpleREACT/issues"
+  },
+  "homepage": "https://github.com/rajatsandeepsen/simpleREACT#readme"
+}
